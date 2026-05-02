@@ -19,7 +19,7 @@ from pathlib import Path
 import base64
 
 st.set_page_config(
-    page_title="生日快乐 🎂",
+    page_title="Joyeux anniversaire 🎂",
     page_icon="🌸",
     layout="centered",
     initial_sidebar_state="collapsed"
@@ -378,10 +378,10 @@ html, body {{
 
   <!-- ══ 页面 2：蛋糕 ══ -->
   <section class="page" id="p2">
-    <p class="t-serif" style="font-size:clamp(28px,7vw,38px);">Happy Birthday</p>
-    <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);font-style:italic;margin-top:4px;margin-bottom:18px;">今天，是专属于你的一天</p>
+    <p class="t-serif" style="font-size:clamp(28px,7vw,38px);">生日快乐</p>
+    <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);font-style:italic;margin-top:4px;margin-bottom:18px;">Happy Birthday Louhan!</p>
     {cake_tag}
-    <p class="t-sub"   style="font-size:11px;margin-top:12px;animation:breathe 2s ease-in-out infinite;">✦ 闭上眼睛，许个愿 ✦</p>
+    <p class="t-sub"   style="font-size:11px;margin-top:12px;animation:breathe 2s ease-in-out infinite;">✦ 闭上眼睛，许个愿吧 ✦</p>
     <p class="t-deco"  style="font-size:clamp(13px,3.5vw,16px);margin-top:10px;">✦ ✧ ✦ ✧ ✦</p>
     <div class="dots" id="dots2">
       <div class="dot"></div><div class="dot on"></div>
@@ -396,10 +396,10 @@ html, body {{
     <div class="confetti-wrap" id="confetti"></div>
     <div style="position:relative;z-index:1;width:100%;display:flex;flex-direction:column;align-items:center;">
       <span class="shimmer" style="display:block;text-align:center;margin-bottom:8px;">🎊 🎉 🎊</span>
-      <p class="t-serif" style="font-size:clamp(24px,6vw,32px);font-style:italic;margin-bottom:4px;">生日快乐</p>
-      <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);margin-bottom:14px;">伊莎贝尔来给你庆生啦</p>
+      <p class="t-serif" style="font-size:clamp(24px,6vw,32px);font-style:italic;margin-bottom:4px;">忙碌的西施惠</p>
+      <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);margin-bottom:14px;">听说しずえ是动森的吉祥物</p>
       {isabell_tag}
-      <p class="t-deco"  style="font-size:clamp(13px,3.5vw,16px);margin-top:10px;">愿你被温柔以待 🌸</p>
+      <p class="t-deco"  style="font-size:clamp(13px,3.5vw,16px);margin-top:10px;">所以希望能给你带来好运</p>
       <div class="dots" id="dots3">
         <div class="dot"></div><div class="dot"></div>
         <div class="dot on"></div><div class="dot"></div>
@@ -416,13 +416,13 @@ html, body {{
         <div class="letter-text">
           <p class="letter-to">致梁露菡，</p>
           <div class="letter-body">
-            <p>今天是很特别的一天。</p>
-            <p>想把一点点温柔，慢慢地交给你。</p>
-            <p>希望你在以后的日子里，也能像在无人岛一样——被阳光照着，被喜欢的事情包围着。</p>
-            <p>有猫，有风，有美景，也有很多安静的小快乐。</p>
-            <p>生日快乐。</p>
+            <p>Joyeux anniversaire！在多邻国刚好学到了这一部分，正好派上用场啦。</p>
+            <p>不知道你的南法之旅如何，我希望这会是一段治愈的旅程，因为那儿有阳光、沙滩和海风。这些事情总能不断让人察觉到生命的美。</p>
+            <p>说到生命的美，对于每个人来说，起点也许都在于出生后呼吸到的第一口新鲜空气，这或许就是为什么生日对于我们来说总有着特殊的意义。</p>
+            <p>希望你能永远保有感受美和幸福的力量。需要休息的时候，也可以随时找到你心中的老式家属院。</p>
+            <p>祝你一切都好</p>
           </div>
-          <p class="letter-sign">From 黄俊豪 🌸</p>
+          <p class="letter-sign">From 黄俊豪</p>
         </div>
         <div class="letter-img">{cat_tag}</div>
       </div>
