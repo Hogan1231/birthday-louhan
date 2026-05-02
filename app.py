@@ -396,7 +396,7 @@ html, body {{
     <div class="confetti-wrap" id="confetti"></div>
     <div style="position:relative;z-index:1;width:100%;display:flex;flex-direction:column;align-items:center;">
       <span class="shimmer" style="display:block;text-align:center;margin-bottom:8px;">🎊 🎉 🎊</span>
-      <p class="t-serif" style="font-size:clamp(24px,6vw,32px);font-style:italic;margin-bottom:4px;">忙碌的西施惠</p>
+      <p class="t-serif" style="font-size:clamp(24px,6vw,32px);font-style:italic;margin-bottom:4px;">准备蛋糕的小秘书西施惠</p>
       <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);margin-bottom:14px;">听说しずえ是动森的吉祥物</p>
       {isabell_tag}
       <p class="t-deco"  style="font-size:clamp(13px,3.5vw,16px);margin-top:10px;">所以希望能给你带来好运</p>
