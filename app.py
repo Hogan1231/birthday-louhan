@@ -365,7 +365,7 @@ html, body {{
 
   <!-- ══ 页面 1：信封 ══ -->
   <section class="page" id="p1">
-    <p class="t-script" style="font-size:clamp(20px,6vw,28px);margin-bottom:6px;">你收到了一封信，请打开吧～（其实是下滑）</p>
+    <p class="t-script" style="font-size:clamp(20px,6vw,28px);margin-bottom:6px;">你收到了一封信</p>
     <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);margin-bottom:20px;">Une lettre t'attend</p>
     {envelope_tag}
     <p class="t-deco"  style="font-size:clamp(13px,3.5vw,16px);margin-top:16px;">just for you · 🌸</p>
@@ -378,7 +378,7 @@ html, body {{
 
   <!-- ══ 页面 2：蛋糕 ══ -->
   <section class="page" id="p2">
-    <p class="t-serif" style="font-size:clamp(28px,7vw,38px);">生日快乐！</p>
+    <p class="t-serif" style="font-size:clamp(28px,7vw,38px);">祝露菡老师生日快乐！</p>
     <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);font-style:italic;margin-top:4px;margin-bottom:18px;">Happy Birthday Louhan!</p>
     {cake_tag}
     <p class="t-sub"   style="font-size:11px;margin-top:12px;animation:breathe 2s ease-in-out infinite;">✦ 闭上眼睛，许个愿吧 ✦</p>
