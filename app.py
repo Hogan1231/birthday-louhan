@@ -365,7 +365,7 @@ html, body {{
 
   <!-- ══ 页面 1：信封 ══ -->
   <section class="page" id="p1">
-    <p class="t-script" style="font-size:clamp(20px,6vw,28px);margin-bottom:6px;">你收到了一封信</p>
+    <p class="t-script" style="font-size:clamp(20px,6vw,28px);margin-bottom:6px;">你收到了一封信，请打开吧～（其实是下滑）</p>
     <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);margin-bottom:20px;">Une lettre t'attend</p>
     {envelope_tag}
     <p class="t-deco"  style="font-size:clamp(13px,3.5vw,16px);margin-top:16px;">just for you · 🌸</p>
@@ -378,7 +378,7 @@ html, body {{
 
   <!-- ══ 页面 2：蛋糕 ══ -->
   <section class="page" id="p2">
-    <p class="t-serif" style="font-size:clamp(28px,7vw,38px);">生日快乐</p>
+    <p class="t-serif" style="font-size:clamp(28px,7vw,38px);">生日快乐！</p>
     <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);font-style:italic;margin-top:4px;margin-bottom:18px;">Happy Birthday Louhan!</p>
     {cake_tag}
     <p class="t-sub"   style="font-size:11px;margin-top:12px;animation:breathe 2s ease-in-out infinite;">✦ 闭上眼睛，许个愿吧 ✦</p>
@@ -420,7 +420,7 @@ html, body {{
             <p>不知道你的南法之旅如何，我希望这会是一段治愈的旅程，因为那儿有阳光、沙滩和海风。这些事情总能不断让人察觉到生命的美。</p>
             <p>如果静下来感受和思考，我总觉得生命的美，开始于降生后呼吸到的第一口空气，这或许就是为什么生日对我们来说总有特殊的意义。</p>
             <p>请好好享受这一天。希望你能永远保有感受美和幸福的力量。需要休息的时候，也可以随时找到你心中的老式家属院。</p>
-            <p>祝你一切都好，我十分期待下一次与你见面！</p>
+            <p>祝你一切都好，我十分期待下一次与你见面。</p>
           </div>
           <p class="letter-sign">From 黄俊豪</p>
         </div>
