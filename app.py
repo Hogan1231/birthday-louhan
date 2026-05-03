@@ -365,7 +365,7 @@ html, body {{
 
   <!-- ══ 页面 1：信封 ══ -->
   <section class="page" id="p1">
-    <p class="t-script" style="font-size:clamp(20px,6vw,28px);margin-bottom:6px;">你收到了一封信//来自九千公里外</p>
+    <p class="t-script" style="font-size:clamp(20px,6vw,28px);margin-bottom:6px;">你收到了一封信（来自九千公里外）</p>
     <p class="t-sub"   style="font-size:clamp(11px,3vw,13px);margin-bottom:20px;">Une lettre t'attend</p>
     {envelope_tag}
     <p class="t-deco"  style="font-size:clamp(13px,3.5vw,16px);margin-top:16px;">just for you · 🌸</p>
